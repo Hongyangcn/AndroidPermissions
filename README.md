@@ -1,10 +1,6 @@
 **使用流程说明：**
 
-  AndroidPermissions依赖库,需要在app module下的build.grale中配置如下：
-
-  compile 'com.github.hongyangJia:AndroidPermissions:1.0.2'
-
-  在项目下的build.gradle中需要增加maven地址:
+**在项目下的build.gradle中需要增加maven地址:**
 
     allprojects {
         repositories {
@@ -15,6 +11,11 @@
         }
     }
 
+**在app module下的build.grale中配置如下：**
+
+      compile 'com.github.hongyangJia:AndroidPermissions:1.0.2'
+
+ 
 **一.简易获取权限:**
 
     1.简易请求权限
@@ -25,7 +26,7 @@
 
     2.系统权限回调
       @Override
-         public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+      public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
              Grace.onRequestPermissionsResult(this,requestCode, permissions, grantResults);
          }
   
