@@ -23,7 +23,7 @@ public class Frament extends Fragment  implements OnPermissionListener {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
         TextView tv = new TextView(getActivity());
-        tv.setText("haha");
+        tv.setText("hello word");
         return tv;
     }
 
@@ -43,7 +43,6 @@ public class Frament extends Fragment  implements OnPermissionListener {
     public void onPermission(int requestCode) {
         switch (requestCode) {
             case  Grace.State.CAMERA:
-                Log.e("MainActivity","onPermission");
                 break;
         }
     }
