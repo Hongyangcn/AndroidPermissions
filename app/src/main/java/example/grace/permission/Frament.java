@@ -43,6 +43,7 @@ public class Frament extends Fragment  implements OnPermissionListener {
     public void onPermission(int requestCode) {
         switch (requestCode) {
             case  Grace.State.CAMERA:
+                Log.e(Frament.class.getSimpleName(),"requestCode"+requestCode);
                 break;
         }
     }
