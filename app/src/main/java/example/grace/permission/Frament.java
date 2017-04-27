@@ -1,5 +1,6 @@
 package example.grace.permission;
 
+import android.Manifest;
 import android.app.Fragment;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -12,13 +13,14 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.grace.permission.Grace;
+import com.grace.permission.GracePermission;
 import com.grace.permission.interaction.OnPermissionListener;
 
 /**
  * Created by hongyang on 17-4-26.
  */
 
-    public class Frament extends Fragment  implements OnPermissionListener {
+    public class Frament extends Fragment   {
 
     @Nullable
     @Override
@@ -34,6 +36,11 @@ import com.grace.permission.interaction.OnPermissionListener;
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
         Grace.requestCamera(this);
+        Grace.requestMicrophoneCameraStorage(this);
+        GracePermission.with(this).permissions(Manifest.permission.CAMERA).requestCode(200).request();
+
+        Grace.requestMicrophoneCameraStorage(this);
+
     }
 
     @Override
@@ -42,10 +49,9 @@ import com.grace.permission.interaction.OnPermissionListener;
         Grace.onRequestPermissionsResult(this,requestCode, permissions, grantResults);
     }
 
-    @Override
     public void onPermission(int requestCode) {
         switch (requestCode) {
-            case  Grace.State.CAMERA:
+            case  Grace.State.MICROPHONE_CAMERA_STORAGE:
                 Log.e(Frament.class.getSimpleName(),"requestCode"+requestCode);
                 break;
         }

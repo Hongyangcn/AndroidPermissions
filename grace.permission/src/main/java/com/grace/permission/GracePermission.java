@@ -84,8 +84,16 @@ public class GracePermission{
         }
 
         if (GraceAuthorization.hasAlwaysDeniedPermission(object,deniedList)){
-            onRationaleListener.onForeverDecline(GraceAuthorization.getContext(object),deniedList.toArray(new String[deniedList.size()]));
+            if (onRationaleListener!=null){
+                onRationaleListener.onForeverDecline(GraceAuthorization.getContext(object),deniedList.toArray(new String[deniedList.size()]));
+            }
         }
 
+    }
+
+    public void onDestroy() {
+        if (onRationaleListener!=null){
+            onRationaleListener=null;
+        }
     }
 }
