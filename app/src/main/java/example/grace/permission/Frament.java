@@ -18,7 +18,7 @@ import com.grace.permission.interaction.OnPermissionListener;
  * Created by hongyang on 17-4-26.
  */
 
-public class Frament extends Fragment  implements OnPermissionListener {
+    public class Frament extends Fragment  implements OnPermissionListener {
 
     @Nullable
     @Override
