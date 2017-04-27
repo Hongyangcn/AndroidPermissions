@@ -5,5 +5,7 @@ package com.grace.permission.interaction;
  */
 
 public interface OnRequestPermission {
+
     void  execute();
+
 }
