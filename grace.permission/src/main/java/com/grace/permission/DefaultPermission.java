@@ -20,8 +20,6 @@ import java.util.List;
 
   class DefaultPermission  implements Permission {
 
-    private static final String TAG = DefaultPermission.class.getSimpleName();
-
     private Object object;
     private String[] permissions;
     private int requestCode;
