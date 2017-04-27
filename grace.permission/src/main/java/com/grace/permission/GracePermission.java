@@ -58,6 +58,7 @@ public class GracePermission{
                 });
             }
         };
+
     }
 
     @NonNull
@@ -87,6 +88,4 @@ public class GracePermission{
         }
 
     }
-
-
 }

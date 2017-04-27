@@ -1,50 +1,26 @@
 [
     {
         "merged": "/home/hongyang/AndroidStudioProjects/AndroidPermissions/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/home/hongyang/AndroidStudioProjects/permission/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_template_big_media.xml"
+        "source": "/home/hongyang/.android/build-cache/048c057390d36df7d5a5f5642b1299bd06ed799a/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
         "merged": "/home/hongyang/AndroidStudioProjects/AndroidPermissions/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "/home/hongyang/AndroidStudioProjects/permission/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "source": "/home/hongyang/.android/build-cache/048c057390d36df7d5a5f5642b1299bd06ed799a/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/home/hongyang/AndroidStudioProjects/AndroidPermissions/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "/home/hongyang/AndroidStudioProjects/permission/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "source": "/home/hongyang/.android/build-cache/048c057390d36df7d5a5f5642b1299bd06ed799a/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/home/hongyang/AndroidStudioProjects/AndroidPermissions/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "source": "/home/hongyang/.android/build-cache/048c057390d36df7d5a5f5642b1299bd06ed799a/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/hongyang/AndroidStudioProjects/AndroidPermissions/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/hongyang/AndroidStudioProjects/permission/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/hongyang/AndroidStudioProjects/permission/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "/home/hongyang/AndroidStudioProjects/permission/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_media_action.xml"
+        "source": "/home/hongyang/.android/build-cache/048c057390d36df7d5a5f5642b1299bd06ed799a/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
         "merged": "/home/hongyang/AndroidStudioProjects/AndroidPermissions/grace.permission/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/layout-v11/notification_media_action.xml"
+        "source": "/home/hongyang/.android/build-cache/048c057390d36df7d5a5f5642b1299bd06ed799a/output/res/layout-v11/notification_media_action.xml"
     }
 ]

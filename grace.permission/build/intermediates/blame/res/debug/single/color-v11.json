@@ -1,18 +1,10 @@
 [
     {
         "merged": "/home/hongyang/AndroidStudioProjects/AndroidPermissions/grace.permission/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/home/hongyang/AndroidStudioProjects/permission/grace.permission/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/home/hongyang/AndroidStudioProjects/permission/grace.permission/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "source": "/home/hongyang/.android/build-cache/048c057390d36df7d5a5f5642b1299bd06ed799a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/home/hongyang/AndroidStudioProjects/AndroidPermissions/grace.permission/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/hongyang/.android/build-cache/4512b5dccf8883b3fae9bbafb7aba48b012ad716/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "source": "/home/hongyang/.android/build-cache/048c057390d36df7d5a5f5642b1299bd06ed799a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]
